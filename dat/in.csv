@@ -1,0 +1,26 @@
+﻿,date,bx,team,home_away,opponent,win_loss,runs,runs_allowed,innings,record,rank,games_behind_raw,win_pitcher,loss_pitcher,save_pitcher,game_time,day_night_raw,attendance,streak_raw,schedule_comment,IfWeekend,home,night_game,win_loss_new,win_total,loss_total,streak,game_duration,games_behind,actual_date,rain
+137,1567296000,boxscore,ATL,,CHW,W,5,3,9,84//54,1,up 5.5,Teheran,Giolito,Melancon,3:08,N,0.784494684,++++,,1,1,1,W,84,54,4,188,5.5,"Sunday, Sep 1 2019",0
+138,1567382400,boxscore,ATL,,TOR,W,6,3,9,85//54,1,up 6.5,Soroka,Waguespack,Melancon,2:52,D,0.549318729,+++++,,0,1,0,W,85,54,5,172,6.5,"Monday, Sep 2 2019",0
+139,1567468800,boxscore,ATL,,TOR,W,7,2,9,86//54,1,up 6.5,Foltynewicz,Font,,2:46,N,0.481854877,++++++,,0,1,1,W,86,54,6,166,6.5,"Tuesday, Sep 3 2019",0
+140,1567641600,boxscore,ATL,,WSN,W,4,2,9,87//54,1,up 8.0,Fried,Strasburg,,2:57,N,0.546362448,+++++++,,0,1,1,W,87,54,7,177,8,"Thursday, Sep 5 2019",0
+141,1567728000,boxscore,ATL,,WSN,W,4,3,9,88//54,1,up 9.0,Keuchel,Corbin,Greene,3:20,N,0.704599291,++++++++,,1,1,1,W,88,54,8,200,9,"Friday, Sep 6 2019",0
+142,1567814400,boxscore,ATL,,WSN,W,5,4,9,89//54,1,up10.0,Teheran,Voth,Melancon,3:29,N,0.766870701,+++++++++,,1,1,1,W,89,54,9,209,10,"Saturday, Sep 7 2019",0
+143,1567900800,boxscore,ATL,,WSN,L,4,9,9,89//55,1,up 9.0,Scherzer,Soroka,,3:16,D,0.602418086,-,,1,1,0,L,89,55,-1,196,9,"Sunday, Sep 8 2019",0
+144,1567987200,boxscore,ATL,@,PHI,W,7,2,9,90//55,1,up 9.5,Foltynewicz,Nola,,2:47,N,0.475108492,+,,0,0,1,W,90,55,1,167,9.5,"Monday, Sep 9 2019",0
+145,1568073600,boxscore,ATL,@,PHI,L,5,6,9,90//56,1,up 9.5,Parker,Fried,Neris,3:06,N,0.458981599,-,,0,0,1,L,90,56,-1,186,9.5,"Tuesday, Sep 10 2019",0
+146,1568160000,boxscore,ATL,@,PHI,W,3,1,9,91//56,1,up 9.5,Keuchel,Eflin,Melancon,3:31,N,0.440466941,+,,0,0,1,W,91,56,1,211,9.5,"Wednesday, Sep 11 2019",0
+147,1568246400,boxscore,ATL,@,PHI,L,5,9,9,91//57,1,up 8.5,Hughes,Teheran,Neris,3:35,N,0.512080957,-,,0,0,1,L,91,57,-1,215,8.5,"Thursday, Sep 12 2019",0
+148,1568332800,boxscore,ATL,@,WSN,W,5,0,9,92//57,1,up 9.5,Soroka,Scherzer,,3:16,N,0.752904167,+,,1,0,1,W,92,57,1,196,9.5,"Friday, Sep 13 2019",53.9
+149,1568419200,boxscore,ATL,@,WSN,W,10,1,9,93//57,1,up10.5,Foltynewicz,Suero,,3:29,D,0.751653433,++,,1,0,0,W,93,57,2,209,10.5,"Saturday, Sep 14 2019",0
+150,1568505600,boxscore,ATL,@,WSN,L,0,7,9,93//58,1,up 9.5,Sanchez,Fried,,3:03,D,0.556197768,-,,1,0,0,L,93,58,-1,183,9.5,"Sunday, Sep 15 2019",0
+151,1568678400,boxscore,ATL,,PHI,L,4,5,9,93//59,1,up 9.0,Velasquez,Keuchel,Neris,3:26,N,0.546589854,--,,0,1,1,L,93,59,-2,206,9,"Tuesday, Sep 17 2019",0
+152,1568764800,boxscore,ATL,,PHI,L,1,4,9,93//60,1,up 9.0,Eflin,Teheran,Neris,2:59,N,0.529420683,---,,0,1,1,L,93,60,-3,179,9,"Wednesday, Sep 18 2019",0
+153,1568851200,boxscore,ATL,,PHI,W,5,4,9,94//60,1,up 9.5,Soroka,Nola,Melancon,3:10,D,0.629593132,+,,0,1,0,W,94,60,1,190,9.5,"Thursday, Sep 19 2019",0
+154,1568937600,boxscore,ATL,,SFG,W,6,0,9,95//60,1,up 9.5,Foltynewicz,Beede,,2:21,N,0.709109515,++,,1,1,1,W,95,60,2,141,9.5,"Friday, Sep 20 2019",0
+155,1569024000,boxscore,ATL,,SFG,W,8,1,9,96//60,1,up 9.5,Fried,Cueto,,2:35,N,0.775057325,+++,,1,1,1,W,96,60,3,155,9.5,"Saturday, Sep 21 2019",0
+156,1569110400,boxscore,ATL,,SFG,L,1,4,9,96//61,1,up 9.5,Webb,Keuchel,Smith,3:07,D,0.638139817,-,,1,1,0,L,96,61,-1,187,9.5,"Sunday, Sep 22 2019",0
+157,1569283200,boxscore,ATL,@,KCR,L,6,9,9,96//62,1,up 7.5,Duffy,Teheran,,3:28,N,0.316246281,--,,0,0,1,L,96,62,-2,208,7.5,"Tuesday, Sep 24 2019",0
+158,1569369600,boxscore,ATL,@,KCR,W,10,2,9,97//62,1,up 7.5,Jackson,Barnes,,3:31,N,0.320851257,+,,0,0,1,W,97,62,1,211,7.5,"Wednesday, Sep 25 2019",0
+159,1569542400,boxscore,ATL,@,NYM,L,2,4,9,97//63,1,up 6.0,Stroman,Keuchel,Lugo,3:09,N,0.497716462,-,,1,0,1,L,97,63,-1,189,6,"Friday, Sep 27 2019",0
+160,1569628800,boxscore,ATL,@,NYM,L,0,3,9,97//64,1,up 5.0,Matz,Foltynewicz,Diaz,2:33,N,0.610396255,--,,1,0,1,L,97,64,-2,153,5,"Saturday, Sep 28 2019",0
+161,1569715200,boxscore,ATL,@,NYM,L-wo,6,7,11,97//65,1,up 4.0,Mazza,Dayton,,3:44,D,0.597377248,---,,1,0,0,L,97,65,-3,224,4,"Sunday, Sep 29 2019",0
